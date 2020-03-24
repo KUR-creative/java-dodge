@@ -1,6 +1,11 @@
 # java-dodge
 My old term project
 
+![1](img/j1.png)
+![2](img/j2.png)
+![3](img/j3.png)
+![4](img/j4.png)
+![5](img/j5.png)
 
 
 http://blog.naver.com/rhdnfka94/220731600818 \
@@ -24,8 +29,10 @@ jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다.
 
 ## thinkings
 이거 2학년 1학기에 OOP 텀프로젝트였습니다. 자바로 짜야 했었죠. \
-그래서 자바 swing이랑 awt로 게임 엔진 없이 밑단부터 만든 프로젝트입니다. 
+물론 주제는 자유였습니다. 객체 지향 막바지에 쓰레드랑 GUI를 소개했는데 그걸 쓰는 프로그램을 하나 만들라는 거였습니다. \
+그래서 기회는 이때다 하고 바로 게임 박아버림 ㅋ 
 
+자바 swing이랑 awt로 게임 엔진 없이 밑단부터 만든 프로젝트입니다. \
 애니메이션도 제가 만들었었는데 옛날에 플래시 게임 만들 때 그려뒀던 MovieClip을 png로 export해서 스프라이트를 만들었어요. \
 스프라이트 시트를 [애니메이션](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/Animation.java)으로 만들어야 하는데 그것도 직접 짰네요 지금 보니. \
 이야 [히트테스트](https://github.com/KUR-creative/java-dodge/blob/a2d350c0fbfa8f7fbbc0a14de2ca4c1accced351/java_dodge_mid_dev_src/src/dodge/GameObject.java#L66)도 직접 만들었어요. 상자 써가지고 ㅋㅋㅋ \
