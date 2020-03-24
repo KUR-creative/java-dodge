@@ -1,5 +1,5 @@
 # java-dodge
-My old term project
+My old term project(2-1 OOP)
 
 ![1](img/j1.png)
 ![2](img/j2.png)
@@ -11,20 +11,33 @@ My old term project
 http://blog.naver.com/rhdnfka94/220731600818 \
 https://blog.naver.com/rhdnfka94/220731600818
 
+2학년 1학기 OOP 텀프로젝트입니다. 
+
 소스 코드를 원하는 분이 계셔서 공개합니다. \
 이걸 만들었던 컴퓨터를 포맷해서 이제는 볼 수 없게 되버렸어요..
 
 네이버 영상이라 영상을 못 붙여 넣네요.. 유튜브에 올리고 싶은데
 
 ## files
+[release](https://github.com/KUR-creative/java-dodge/blob/master/java%2Bdodge.zip): \
+jar 실행파일과 img 리소스가 있는 압축파일입니다. \
+윈도우에서 [자바 런타임](https://java.com/ko/)을 설치하면 실행할 수 있습니다. 
+
+전에 누가 리눅스에서 해보니까 키가 안 먹힌다더군요. \
+사실 학식충 2학년한테 너무 많은 걸 요구하면 안되죠. \
+아무튼 플레이하고 싶으시면 [윈도우](https://www.microsoft.com/ko-kr/windows/get-windows-10)에서 [자바](https://java.com/ko/)를 인스톨하시면 됩니다. \
+<sub>혹시.. 꼬우신가요?   꼬우면.. 아시죠?</sub>
+
 [final-decompiled](https://github.com/KUR-creative/java-dodge/tree/master/final-decompiled): \
 jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다. 
 
 [java_dodge_mid_dev_proj](https://github.com/KUR-creative/java-dodge/tree/master/java_dodge_mid_dev_proj): \
-옛날 메일함에서 발견한 프로젝트 폴더입니다. 이클립스에서 짰던 기억이 납니다. 아무래도 개발 중간 버전인 것 같네요. 
+옛날 메일함에서 발견한 프로젝트 폴더입니다. 이클립스에서 짰던 기억이 납니다. \
+아무래도 개발 중간 버전인 것 같네요. 
 
 [java_dodge_mid_dev_src](https://github.com/KUR-creative/java-dodge/tree/master/java_dodge_mid_dev_src): \
-위 프로젝트 폴더에서 이미지와 소스코드만 빼낸 겁니다.주석이 좀 달려 있습니다. 
+위 프로젝트 폴더에서 이미지와 소스코드만 빼낸 겁니다. 주석이 좀 달려 있습니다. \
+그보다 탭 쓴 거 보니 이불킥 마렵네요
 
 
 ## thinkings
@@ -37,7 +50,7 @@ jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다.
 스프라이트 시트를 [애니메이션](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/Animation.java)으로 만들어야 하는데 그것도 직접 짰네요 지금 보니. \
 이야 [히트테스트](https://github.com/KUR-creative/java-dodge/blob/a2d350c0fbfa8f7fbbc0a14de2ca4c1accced351/java_dodge_mid_dev_src/src/dodge/GameObject.java#L66)도 직접 만들었어요. 상자 써가지고 ㅋㅋㅋ \
 [state transition](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/SceneManager.java)도 보아하니 다 switch case로 구현된 거 같습니다 하하.. \
-이 때는 아직 TDD에 빠지기 전이라 테스트는 없네요. 테스트 폴더만 있고 텅 비어 있습니다. \
+이 때는 아직 TDD에 빠지기 전이라 테스트는 없네요. 테스트 폴더만 있고 뭐가 없음 ㅇㅅㅇ \
 오랜만에 보니 재밌네요.
 
 기억 나는 바로는 이것 저것 필요한 지식을 얻은 다음에 \
