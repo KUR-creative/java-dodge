@@ -1,7 +1,10 @@
 # java-dodge
 My old term project(2-1 OOP)
 
-![1](img/j1.png)
+[![1](img/j1.png)](https://youtu.be/Z2-yvlf-otM)
+
+위 이미지를 눌러 영상을 시청하세요
+
 ![2](img/j2.png)
 ![3](img/j3.png)
 ![4](img/j4.png)
@@ -14,9 +17,9 @@ https://blog.naver.com/rhdnfka94/220731600818
 2학년 1학기 OOP 텀프로젝트입니다. 
 
 소스 코드를 원하는 분이 계셔서 공개합니다. \
-이걸 만들었던 컴퓨터를 포맷해서 이제는 볼 수 없게 되버렸어요..
+~~이걸 만들었던 컴퓨터를 포맷해서 이제는 볼 수 없게 되버렸어요..~~
 
-네이버 영상이라 영상을 못 붙여 넣네요.. 유튜브에 올리고 싶은데
+코드를 찾았습니다! `project`를 참고해주세요.
 
 ## files
 [release](https://github.com/KUR-creative/java-dodge/blob/master/java%2Bdodge.zip): \
@@ -26,19 +29,16 @@ jar 실행파일과 img 리소스가 있는 압축파일입니다. \
 전에 누가 리눅스에서 해보니까 키가 안 먹힌다더군요. \
 사실 학식충 2학년한테 너무 많은 걸 요구하면 안되죠. \
 아무튼 플레이하고 싶으시면 [윈도우](https://www.microsoft.com/ko-kr/windows/get-windows-10)에서 [자바](https://java.com/ko/)를 인스톨하시면 됩니다. \
-<sub>혹시.. 꼬우신가요?   꼬우면.. 아시죠?</sub>
 
-[final-decompiled](https://github.com/KUR-creative/java-dodge/tree/master/final-decompiled): \
+[final-decompiled](https://github.com/KUR-creative/java-dodge/tree/master/old/final-decompiled): \
 jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다. 
 
-[java_dodge_mid_dev_proj](https://github.com/KUR-creative/java-dodge/tree/master/java_dodge_mid_dev_proj): \
+[java_dodge_mid_dev_proj](https://github.com/KUR-creative/java-dodge/tree/master/old/java_dodge_mid_dev_proj): \
 옛날 메일함에서 발견한 프로젝트 폴더입니다. 이클립스에서 짰던 기억이 납니다. \
 아무래도 개발 중간 버전인 것 같네요. 
 
-[java_dodge_mid_dev_src](https://github.com/KUR-creative/java-dodge/tree/master/java_dodge_mid_dev_src): \
+[java_dodge_mid_dev_src](https://github.com/KUR-creative/java-dodge/tree/master/old/java_dodge_mid_dev_src): \
 위 프로젝트 폴더에서 이미지와 소스코드만 빼낸 겁니다. 주석이 좀 달려 있습니다. \
-그보다 탭 쓴 거 보니 이불킥 마렵네요
-
 
 ## thinkings
 이거 2학년 1학기에 OOP 텀프로젝트였습니다. 자바로 짜야 했었죠. \
@@ -47,7 +47,7 @@ jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다.
 
 자바 swing이랑 awt로 게임 엔진 없이 밑단부터 만든 프로젝트입니다. \
 애니메이션도 제가 만들었었는데 옛날에 플래시 게임 만들 때 그려뒀던 MovieClip을 png로 export해서 스프라이트를 만들었어요. \
-스프라이트 시트를 [애니메이션](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/Animation.java)으로 만들어야 하는데 그것도 직접 짰네요 지금 보니. \
+스프라이트 시트를 [애니메이션](https://github.com/KUR-creative/java-dodge/blob/master/project/src/dodge/Animation.java)으로 만들어야 하는데 그것도 직접 짰네요 지금 보니. \
 이야 [히트테스트](https://github.com/KUR-creative/java-dodge/blob/a2d350c0fbfa8f7fbbc0a14de2ca4c1accced351/java_dodge_mid_dev_src/src/dodge/GameObject.java#L66)도 직접 만들었어요. 상자 써가지고 ㅋㅋㅋ \
 [state transition](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/SceneManager.java)도 보아하니 다 switch case로 구현된 거 같습니다 하하.. \
 이 때는 아직 TDD에 빠지기 전이라 테스트는 없네요. 테스트 폴더만 있고 뭐가 없음 ㅇㅅㅇ \
