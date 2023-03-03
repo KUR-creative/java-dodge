@@ -38,7 +38,7 @@ jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다.
 아무래도 개발 중간 버전인 것 같네요. 
 
 [java_dodge_mid_dev_src](https://github.com/KUR-creative/java-dodge/tree/master/old/java_dodge_mid_dev_src): \
-위 프로젝트 폴더에서 이미지와 소스코드만 빼낸 겁니다. 주석이 좀 달려 있습니다. \
+위 프로젝트 폴더에서 이미지와 소스코드만 빼낸 겁니다. 주석이 좀 달려 있습니다. 
 
 ## thinkings
 이거 2학년 1학기에 OOP 텀프로젝트였습니다. 자바로 짜야 했었죠. \
@@ -48,8 +48,8 @@ jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다.
 자바 swing이랑 awt로 게임 엔진 없이 밑단부터 만든 프로젝트입니다. \
 애니메이션도 제가 만들었었는데 옛날에 플래시 게임 만들 때 그려뒀던 MovieClip을 png로 export해서 스프라이트를 만들었어요. \
 스프라이트 시트를 [애니메이션](https://github.com/KUR-creative/java-dodge/blob/master/project/src/dodge/Animation.java)으로 만들어야 하는데 그것도 직접 짰네요 지금 보니. \
-이야 [히트테스트](https://github.com/KUR-creative/java-dodge/blob/a2d350c0fbfa8f7fbbc0a14de2ca4c1accced351/java_dodge_mid_dev_src/src/dodge/GameObject.java#L66)도 직접 만들었어요. 상자 써가지고 ㅋㅋㅋ \
-[state transition](https://github.com/KUR-creative/java-dodge/blob/master/java_dodge_mid_dev_src/src/dodge/SceneManager.java)도 보아하니 다 switch case로 구현된 거 같습니다 하하.. \
+이야 [히트테스트](https://github.com/KUR-creative/java-dodge/blob/9b95cc0e24b9d6775e6949ae930ab2f143824828/project/src/dodge/GameObject.java#L45)도 직접 만들었어요. 상자 써가지고 ㅋㅋㅋ \
+[state transition](https://github.com/KUR-creative/java-dodge/blob/master/project/src/dodge/SceneManager.java)도 보아하니 다 switch case로 구현된 거 같습니다 하하.. \
 이 때는 아직 TDD에 빠지기 전이라 테스트는 없네요. 테스트 폴더만 있고 뭐가 없음 ㅇㅅㅇ \
 오랜만에 보니 재밌네요.
 
