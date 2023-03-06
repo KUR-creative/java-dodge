@@ -10,8 +10,17 @@ My old term project(2-1 OOP)
 ![4](img/j4.png)
 ![5](img/j5.png)
 
+## Summary
+2학년 1학기 OOP 수업의 기말 자유 주제 텀 프로젝트입니다. 텀프로젝트의 조건은 1) GUI 2) 쓰레드를 쓸 것 이기에 많은 학생들은 단 한페이지로 해결되는 앱을 만드는 것이 보통이었습니다. 하지만 저는 **그냥 재미있을 거 같아서 게임을 만들었습니다**.
 
-http://blog.naver.com/rhdnfka94/220731600818 \
+이 레포를 통해 알 수 있는 것은 다음과 같습니다.
+- 기본적인 OOP를 이해하며 Java 코드를 작성할 줄 압니다
+- 게임 엔진 없이 라이브러리만으로 바닥부터 GUI 액션 게임을 만들 수 있습니다
+- 3일 만에 빠르게 이 정도 규모의 프로그램을 작성할 수 있습니다
+
+자세한 코드에 대해서는 [보고서](./project/report,%20UML/report.pdf), [UML](./project/report,%20UML/UML.gif)을 참고해 주세요.
+
+## 소개
 https://blog.naver.com/rhdnfka94/220731600818
 
 2학년 1학기 OOP 텀프로젝트입니다. 
@@ -28,7 +37,7 @@ jar 실행파일과 img 리소스가 있는 압축파일입니다. \
 
 전에 누가 리눅스에서 해보니까 키가 안 먹힌다더군요. \
 사실 학식충 2학년한테 너무 많은 걸 요구하면 안되죠. \
-아무튼 플레이하고 싶으시면 [윈도우](https://www.microsoft.com/ko-kr/windows/get-windows-10)에서 [자바](https://java.com/ko/)를 인스톨하시면 됩니다. \
+아무튼 플레이하고 싶으시면 [윈도우](https://www.microsoft.com/ko-kr/windows/get-windows-10)에서 [자바](https://java.com/ko/)를 인스톨하시면 됩니다. 
 
 [final-decompiled](https://github.com/KUR-creative/java-dodge/tree/master/old/final-decompiled): \
 jar 파일을 디컴파일한 소스코드입니다. 최종버전입니다. 
