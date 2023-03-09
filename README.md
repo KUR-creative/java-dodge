@@ -36,7 +36,7 @@ jar 실행파일과 img 리소스가 있는 압축파일입니다. \
 윈도우에서 [자바 런타임](https://java.com/ko/)을 설치하면 실행할 수 있습니다. 
 
 전에 누가 리눅스에서 해보니까 키가 안 먹힌다더군요. \
-사실 학식충 2학년한테 너무 많은 걸 요구하면 안되죠. \
+사실 학부 2학년한테 너무 많은 걸 요구하면 안되죠. \
 아무튼 플레이하고 싶으시면 [윈도우](https://www.microsoft.com/ko-kr/windows/get-windows-10)에서 [자바](https://java.com/ko/)를 인스톨하시면 됩니다. 
 
 [final-decompiled](https://github.com/KUR-creative/java-dodge/tree/master/old/final-decompiled): \
